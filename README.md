@@ -16,6 +16,8 @@ App will open on url `http://localhost:3000`
 
 ### Round 2 Details
 
+All Round 2 codes are in RoundTwoComponentFolder
+
 Note: After running program locally go to following routes to see the output related to specific qns. All components are mainly focused on functionality not on designs.
 
 #### Q1. About username: `http://localhost:3000/username`
