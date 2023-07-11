@@ -60,3 +60,15 @@ export const data = [
     progressColor: "green",
   },
 ];
+
+export const grocery = [
+  { name: "Oranges", votes: 0 },
+  { name: "Bananas", votes: 0 },
+  { name: "Apples", votes: 0 },
+  { name: "Papayas", votes: 0 },
+];
+
+export const imageData = [
+  { imgSrc: "https://bit.ly/3lmYVna" },
+  { imgSrc: "https://bit.ly/3flyaMj" },
+];
